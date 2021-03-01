@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>billykoplitz.com</title>
+    <link href="https://billykoplitz.com/feed.xml" rel="self" />
+    <link href="https://billykoplitz.com" />
+    <updated>2021-02-27T22:34:09-05:00</updated>
+    <author>
+        <name>billy koplitz</name>
+    </author>
+    <id>https://billykoplitz.com</id>
+
+    <entry>
+        <title>karl popper</title>
+        <author>
+            <name>billy koplitz</name>
+        </author>
+        <link href="https://billykoplitz.com/karl-popper.html"/>
+        <id>https://billykoplitz.com/karl-popper.html</id>
+
+        <updated>2021-02-27T22:34:09-05:00</updated>
+            <summary>
+                <![CDATA[
+                    I, like many others I'm sure, have lately been dabbling in cryptocurrency. Just some basic minor league stuff, so that if - against all the odds - bitcoin becomes the world's reserve currency I have just a teensy tiny bit of a fraction of a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I, like many others I'm sure, have lately been dabbling in cryptocurrency.  Just some basic minor league stuff, so that if - against all the odds - bitcoin becomes the world's reserve currency I have just a teensy tiny bit of a fraction of a coin </p>
+<p>The company that I use to buy crypto is <a href="https://r.kraken.com/9b745" target="_blank" rel="noopener">Kraken</a> - and no, not just because of the name, but that is a plenty good reason to select them. The rest fo the exchanges are either something-coin or coin-something like "foocoin" or "coinbazz".  Kraken has a little more style.   They are also the most secure publicly accessible website that i hav ever seen. Of course that assumes that you, the user are following best practices as well.</p>
+<p>"Wait, why is this post entitled 'Karl Popper'."</p>
+<p>I'm getting there, don't worry, there is a dog on the runway so we can't land yet, but the ground personnel  have a frisbee and will get him off.  We have plenty of fuel so relax. Actually I just realized that I am procrastinating like a champion.  </p>
+<p>Every day Kraken sends out their Daily Intelligence Report and it starts with a quote and then talks about they usual things like who is buying whom, or what the Federal Reserve is doing.  The ordinary.</p>
+<p>I have been keeping a list of my favorite quotes and this is the one from yesterday, it made my Top Ten List of Awesome Quotes from the Kraken Intelligence Briefing -- I'lll wordsmith that title into some incredible clickbait someday.</p>
+<p>Here it is:</p>
+<blockquote>
+<p>"Optimism is a duty. The future is open. It is not predetermined. No one can predict it, except by chance. We all contribute to determining it by what we do. We are all equally responsible for its success."<br><i>― Karl Popper</i></p>
+</blockquote>
+<p>That's it.  I don't know why exactly but that first sentence just pokes me in the heart.  Perhaps I've been feeling less than optimistic about some things. All of them too wildly personal to put on the internet.   But the fact of it being a duty, an obligation to be optimistic made me actually away of how I had been failing the people around me and myself, by being sub-optimistic. So enough of that. </p>
+<p>But how cool was Karl Popper?  I hadn't really heard much about him until I read Nassim Taleb's books "The Black Swan" and "Antifragile".  Mr. Taleb who doesn't have a whole lot of use for much of modern philosophy or traditional financial advisers models - is clearly a huge fan of Karl Popper.  </p>
+<p>And now to figure out where to start.  Philosophy books are tricky because I want to read his "greatest hits" at the risk of sounding click-bait-y but also want to get a general sense of the scope and sweep of his work.  Recommendations are welcome. :)</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>lookee here</title>
+        <author>
+            <name>billy koplitz</name>
+        </author>
+        <link href="https://billykoplitz.com/lookee-here.html"/>
+        <id>https://billykoplitz.com/lookee-here.html</id>
+            <category term="tech"/>
+            <category term="blog"/>
+
+        <updated>2021-02-27T13:40:01-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Golly someobdy’s website is lookin’ fancy!I realized that my writing blog publishing softeware had reached the end of it’s viabilty. I ha started to work on fixing it myself. It was a great littel piece of software, it was written using Django to spit out&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h4 id="golly-someobdys-website-is-lookin-fancy">Golly someobdy’s website is lookin’ fancy!</h4>
+<p>I realized that my writing blog publishing softeware had reached the end of it’s viabilty.  I ha started to work on fixing it myself.  It was a great littel piece of software, it was written using Django to spit out static html files.</p>
+<p>As I was pulling this thing apart and realizigt that it was written in Python 2 and I would have to upgrade the entire thing to Python 3, I started looking for other ways of doing this. So here we go right? It’s the dawining of a new era. :) </p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>untitled</title>
+        <author>
+            <name>billy koplitz</name>
+        </author>
+        <link href="https://billykoplitz.com/untitled.html"/>
+        <id>https://billykoplitz.com/untitled.html</id>
+
+        <updated>2021-02-27T12:04:04-05:00</updated>
+            <summary>
+                <![CDATA[
+                    .sitting in cool grassorange moon slowly risesnothing is missingPosted on Oct 12
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <article class="post"><header>
+<h2 class="headline">.</h2>
+</header>
+<section id="post-body">
+<pre>sitting in cool grass
+orange moon slowly rises
+nothing is missing
+</pre>
+</section>
+<footer id="post-meta" class="clearfix">
+<div>Posted on Oct 12</div>
+</footer></article>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>love your frienemy</title>
+        <author>
+            <name>billy koplitz</name>
+        </author>
+        <link href="https://billykoplitz.com/love-your-frenemy.html"/>
+        <id>https://billykoplitz.com/love-your-frenemy.html</id>
+
+        <updated>2021-02-27T11:06:11-05:00</updated>
+            <summary>
+                <![CDATA[
+                    what we normally don't think about when we think about loveNormally my shower thoughts are not that interesting. I am either planning a scenario or reminiscing or daydreaming. Sometimes I do have a moment when I have insight. But mostly I can’t even tell that&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <header>
+<h2 class="headline">what we normally don't think about when we think about love</h2>
+</header>
+<section id="post-body">
+<p>Normally my shower thoughts are not that interesting. I am either planning a scenario or reminiscing or daydreaming. Sometimes I do have a moment when I have insight. But mostly I can’t even tell that I am in the water.</p>
+<p>I have been having a hard time the past few days. Nothing catastrophic, but I have been feeling like I need to defend myself. I’m sick of that mode of living - defending myself and protecting my ego. In the end, all my defensive actions and planning will fall apart. Valar morghulis</p>
+<p>Love is not for your family and friends. That is too easy. It is basically hard-wired into our DNA to want to protect the members of our family and our tribe. Heroics come showering down like rain when we have to help those whom we identify with. The true test of being human is to love those who wish us harm.</p>
+<p>I vow to love these people. I vow to remember that they are acting out of ignorance and fear and beneath this layer of harmful actions still pulses the genuine heart of Bodhicitta.</p>
+<p>It isn’t going to be easy, but I think it is the next step in my personal evolution. “Thou shalt love thy neighbour as thyself,” doesn’t apply only to the neighbors that like you or agree with you. It implies all of them.</p>
+</section>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>monkey and the moon reflection</title>
+        <author>
+            <name>billy koplitz</name>
+        </author>
+        <link href="https://billykoplitz.com/monkey-and-the-moon-reflection.html"/>
+        <id>https://billykoplitz.com/monkey-and-the-moon-reflection.html</id>
+
+        <updated>2021-02-27T04:35:17-05:00</updated>
+            <summary>
+                <![CDATA[
+                    1000 words Monkey and the Moon Reflection by Ogata Gekko Ca 1900 - 1910 Borrowed with love from ukiyo-e.org
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3 class="align-center">1000 words</h3>
+<figure class="post__image"><img loading="lazy"  src="https://billykoplitz.com/media/posts/6/52241g1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://billykoplitz.com/media/posts/6/responsive/52241g1-xs.jpg 300w ,https://billykoplitz.com/media/posts/6/responsive/52241g1-sm.jpg 480w ,https://billykoplitz.com/media/posts/6/responsive/52241g1-md.jpg 768w ,https://billykoplitz.com/media/posts/6/responsive/52241g1-lg.jpg 1024w ,https://billykoplitz.com/media/posts/6/responsive/52241g1-xl.jpg 1360w ,https://billykoplitz.com/media/posts/6/responsive/52241g1-2xl.jpg 1600w"  alt="monkey looking at the reflection of the moon" width="1255" height="1200"></figure>
+<p><br>Monkey and the Moon Reflection<br>by Ogata Gekko Ca 1900 - 1910<br>Borrowed with love from <a href="https://ukiyo-e.org/image/artelino/52241g1" target="_blank" rel="noopener">ukiyo-e.org</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>my superpower</title>
+        <author>
+            <name>billy koplitz</name>
+        </author>
+        <link href="https://billykoplitz.com/my-superpower.html"/>
+        <id>https://billykoplitz.com/my-superpower.html</id>
+
+        <updated>2021-02-27T11:54:14-05:00</updated>
+            <summary>
+                <![CDATA[
+                    "maybe i'm wrong?"If I had to pick the superpower that I am currently closest to possessing, it would be this: The ability to say "maybe I'm wrong". It’s not very glamorous. I mean, I’m pretty good at slowly inching along an 80 foot slackline, but&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <header>
+<h2 class="headline">"maybe i'm wrong?"</h2>
+</header>
+<section id="post-body">
+<p>If I had to pick the superpower that I am currently closest to possessing, it would be this:</p>
+<p>The ability to say "maybe I'm wrong".</p>
+<p>It’s not very glamorous. I mean, I’m pretty good at slowly inching along an 80 foot slackline, but that won’t help me save any people from doom.</p>
+<p>No, lately I have found myself, whilst in the throes of righteous indignation or professional certainty, having an increasingly common and serene moment where I think, "maybe I'm wrong".</p>
+<p>It isn't a skill I got from my home planet, or from the bite of a radioactive insect. I have gleaned this superpower from hours of meditation and watching how my mind tries to promote a narrative. In these narratives “I” usually play a starring role and have a bunch of obviously (to me) correct points of view. But maybe I’m wrong.</p>
+<p>I am not saying I am wrong, I’m just inviting the possibility that I am wrong.</p>
+<p>Try it. The next time you are in the middle of your own juicy story… entertain the possibility that you are 100% wrong. It feels really good.</p>
+</section>
+<footer id="post-meta" class="clearfix">
+<div>Posted on Dec 25</div>
+<div>Written by billy koplitz</div>
+</footer>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>productivity zero</title>
+        <author>
+            <name>billy koplitz</name>
+        </author>
+        <link href="https://billykoplitz.com/productivity-zero.html"/>
+        <id>https://billykoplitz.com/productivity-zero.html</id>
+
+        <updated>2021-02-27T11:22:59-05:00</updated>
+            <summary>
+                <![CDATA[
+                    so much is happeningMy productivity is shot. I am trying to meditate a more and to be present, but the fact is -- I really want to watch Trump resign. I don’t want to watch video replay, I want to be there live so that I can&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <header>
+<h2 class="headline">so much is happening</h2>
+</header>
+<section id="post-body">
+<p>My productivity is shot. I am trying to meditate a more and to be present, but the fact is -- I <em>really</em> want to watch Trump resign. I don’t want to watch video replay, I want to be there live so that I can go and dance in the streets.</p>
+<p>In other news my loose rope / slack rope walking is improving.</p>
+<div class="post__iframe"><iframe loading="lazy" width="640" height="1138" src="https://player.vimeo.com/video/365106603" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></section>
+<footer id="post-meta" class="clearfix">
+<div>Posted on Oct 8</div>
+</footer>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>nature</title>
+        <author>
+            <name>billy koplitz</name>
+        </author>
+        <link href="https://billykoplitz.com/nature.html"/>
+        <id>https://billykoplitz.com/nature.html</id>
+
+        <updated>2021-02-27T11:15:13-05:00</updated>
+            <summary>
+                <![CDATA[
+                    nothing / everythingI went for a walk today and stopped on a small wooden bridge over a creek. Ever since the flood I have been very interested in the local creeks. There are lots of little ones, and this is the one that flooded the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="headline">nothing / everything</h2>
+<section id="post-body">
+<p>I went for a walk today and stopped on a small wooden bridge over a creek. Ever since the flood I have been very interested in the local creeks. There are lots of little ones, and this is the one that flooded the house I am living in and released me from almost all my worldly possessions. Cheeky little creek. I'm not writing to complain, though. I was listening to a podcast and took out my headphones. The creek was making a classic "relaxing water sounds", like it was part of a meditation track. I mean, it was gurgling and bubbling so expertly that it could have been a soundtrack. But it's not fake! <br>You cannot buy this soundtrack anywhere in online stores. This is real life and it is happening right now. Brooks are babbling, cicadas are singing, birds are calling back and forth to each other - even if they are just saying "Hey, let's have sex!" over and over, it still sounds really nice. I encourage you to take 15 seconds out of your day, turn up the volume and remember that the universe is bigger than your problems. That beautiful things are happening right now. You don't have to buy an mp3 of relaxing water sounds, you can just find a creek and pause by it.</p>
+<p>Here is a video, turn up your volume.</p>
+<div class="post__iframe"><iframe loading="lazy" width="640" height="640" src="https://player.vimeo.com/video/355161182" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="allowfullscreen"></iframe></div>
+<p><a href="https://vimeo.com/355161182">Nature.</a> from <a href="https://vimeo.com/user49405888">Billy Koplitz</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p>But wait, there's more, I walked past a shrub that smelled delicious. It was covered in moths and butterflies all of them intoxicated by the candy store smell. I broke off a small piece of flower and crushed it in my fingers. It smelled like licorice. I had to go home and google what it was. Turns out it was licorice. Voilà. Otherwise known as: Glycyrrhiza glabra. Not as pretty of a name as the smell.</p>
+<p>I sat down on a bench for a minute to cool off and a moth/butterfly, I'm not sure which, alit on my hand just long enough for me to take a photo and then took off. It probably thought I smelled like Glycyrrhiza glabra.</p>
+<p>Thank you for your attention.</p>
+</section>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>social media</title>
+        <author>
+            <name>billy koplitz</name>
+        </author>
+        <link href="https://billykoplitz.com/social-media.html"/>
+        <id>https://billykoplitz.com/social-media.html</id>
+
+        <updated>2021-02-27T11:50:57-05:00</updated>
+            <summary>
+                <![CDATA[
+                    stepping back in, gingerlyAfter having taken a long break from social media, it is really interesting to dip my toe back into the water. It has gotten chilly! I was a bit baffled and was talking about the different tones on the platforms and somebody&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <header>
+<h2 class="headline">stepping back in, gingerly</h2>
+</header>
+<section id="post-body">
+<p>After having taken a long break from social media, it is really interesting to dip my toe back into the water. It has gotten chilly! I was a bit baffled and was talking about the different tones on the platforms and somebody summed it up as: "Instagram is for good news, Twitter is for bad news."</p>
+<p>Instagram seems to be filled with people who are doing awesome things and looking great doing them. It can make me feel like I'm not doing enough or being awesome enough. Of course, these images are carefully curated by the users and may have enhancing filters applied to them, but it is interesting how it unearths feelings of unworthiness in me. It is hard to remain grateful for your life and mindful of how good you have it when you are looking at photos of people on the beach, doing yoga, and looking better than I feel. If you reach out to someone and say how awesome it looks like their life is, they respond with a “well….” It is a sanitized version of ourselves where there is no old age, sickness or death.</p>
+<p>Twitter on the other hand, is almost exactly the opposite. Instead of being a place for self-promotion where you can show off how good you look and how successful you are, it is a place to tear down people. The place is filled with hate. It is all about Schadenfreude. You get to either participate in - or watch - people getting taken down.</p>
+<p>Facebook: I don't have a facebook account. So I can't really speak to what that is like now. I can only say that it seems like all of your data is for sale to just about anyone. Of course, they own Instagram, so by proxy, I suppose all your data is for sale from Instagram, too.</p>
+<p>I have to hand it to the developers of these platforms, though. They are really ‘sticky’. You want to keep scrolling and looking and reading. It <strong>almost</strong> scratches some psychic itch, while keeping us yearning for more.</p>
+</section>
+<footer id="post-meta" class="clearfix">
+<div>Posted on Aug 17</div>
+<div>Written by billy koplitz</div>
+</footer>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>slackline</title>
+        <author>
+            <name>billy koplitz</name>
+        </author>
+        <link href="https://billykoplitz.com/slackline.html"/>
+        <id>https://billykoplitz.com/slackline.html</id>
+
+        <updated>2021-02-27T11:49:14-05:00</updated>
+            <summary>
+                <![CDATA[
+                    40 feet and countingThis is a 40 foot slackline. My record right now is 83 feet. IMG_0220T from Billy Koplitz on Vimeo.Posted on Jul 14
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <article class="post"><header>
+<h2 class="headline">40 feet and counting</h2>
+</header>
+<section id="post-body">
+<p>This is a 40 foot slackline. My record right now is 83 feet.</p>
+<div class="post__iframe"><iframe loading="lazy" width="640" height="360" src="https://player.vimeo.com/video/348082371" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="allowfullscreen"></iframe></div>
+<p><a href="https://vimeo.com/348082371">IMG_0220T</a> from <a href="https://vimeo.com/user49405888">Billy Koplitz</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</section>
+<footer id="post-meta" class="clearfix">
+<div>Posted on Jul 14</div>
+</footer></article>
+            ]]>
+        </content>
+    </entry>
+</feed>
