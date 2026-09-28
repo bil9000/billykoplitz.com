@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bkoplitz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://billykoplitz.com
+  * I am bkoplitz (https://keybase.io/bkoplitz) on keybase.
+  * I have a public key ASAKtUdAEi7eu7F15UbnIfzFa7tLtZ4sQXbQ3tbt3HZHMwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101a3cf66c5cfea69a715e5a53e67fc7e709dc32de27d4c4c10912a49b9e766b35a0a",
+      "host": "keybase.io",
+      "kid": "01200ab54740122edebbb175e546e721fcc56bbb4bb59e2c4176d0ded6eddc7647330a",
+      "uid": "165fb8827c64eeaa10d7f46fd25c7d19",
+      "username": "bkoplitz"
+    },
+    "merkle_root": {
+      "ctime": 1614580567,
+      "hash": "87faace03fb2345ee65ea42c86f83bad5f4a608a7471d13b1fc8d8e27c0dbc92b402ff07a6dfd93ad77d273d9cc56d514ff70ea323e8627777ca084e8952e09e",
+      "hash_meta": "9e5742757b0f6e3fe13bf83a4eeee6906e13b825a7c4deab66d48ca77344fe5f",
+      "seqno": 19253880
+    },
+    "service": {
+      "entropy": "FOWf6O5ExL/XWBVJdlpIz6qe",
+      "hostname": "billykoplitz.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1614580586,
+  "expire_in": 504576000,
+  "prev": "e24a1ad6bada5e763339bff419aabbed7b646a7473de692aba64e4bcbaf1921c",
+  "seqno": 41,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCrVHQBIu3ruxdeVG5yH8xWu7S7WeLEF20N7W7dx2RzMKp3BheWxvYWTESpcCKcQg4koa1rraXnYzOb/0Gaq77XtkanRz3mkqumTkvLrxkhzEIAQg8Hq8/BkEgpi6ANtJX+5JVk77qZmtM3cq2YljMBoSAgHCo3NpZ8RAEW7xpxoajYDlQYnxmmaI6v7a2nGym7iQmZ8cOOCcd+JVjwbinqbMkGfHMmxtxt/13DN1sU+yaLEnAGfpsWc+DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFsLSk07ld+o9GbH+GVvrka9M+q72FThcNHCtcZ27LkCo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bkoplitz
+
+==================================================================

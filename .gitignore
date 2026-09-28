@@ -1,0 +1,8 @@
+# Large media lives in S3 only, not in this mirror
+movies/
+podcasts/
+*.mp4
+*.mov
+*.m4a
+*.mp3
+*.wav

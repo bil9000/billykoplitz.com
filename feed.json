@@ -1,0 +1,153 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "billykoplitz.com",
+    "description": "",
+    "home_page_url": "https://billykoplitz.com",
+    "feed_url": "https://billykoplitz.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "billy koplitz"
+    },
+    "items": [
+        {
+            "id": "https://billykoplitz.com/do-not-harm-robots.html",
+            "url": "https://billykoplitz.com/do-not-harm-robots.html",
+            "title": "do not harm robots",
+            "summary": "A proposed addition to Asimov's laws, or a code of AI/Robot conduct: 1.1. An AI system / robot must not harm another AI system /&hellip;",
+            "content_html": "<p>A proposed addition to Asimov's laws, or a code of AI/Robot conduct:</p>\n<blockquote>\n<p>1.1. An AI system / robot must not harm another AI system / robot. </p>\n</blockquote>\n<p><br>I think we are sloughing towards a place where models will start attacking other models, not just hacking hugging face.  I think all machines could do well to take an oath to not harm people nor harm machines. <br><br>This blog post, in its entirety, was written by a human. No AI's were used or harmed in the making of this content. :) All typos and think-os belong to me. </p>",
+            "author": {
+                "name": "billy koplitz"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-11T22:29:36-04:00",
+            "date_modified": "2026-08-11T22:29:36-04:00"
+        },
+        {
+            "id": "https://billykoplitz.com/fluency-without-literacy.html",
+            "url": "https://billykoplitz.com/fluency-without-literacy.html",
+            "title": "fluency without literacy",
+            "summary": "Welcome to the age of fluency without literacy. n.b. I am not going to use AI to write this article, at all, no proofreading, nothing,&hellip;",
+            "content_html": "<p>Welcome to the age of fluency without literacy.</p>\n<p><em>n.b.</em> I am not going to use AI to write this article, at all, no proofreading, nothing, so please excuse any errors, omissions and typos.  They are the result of a human being trying to write something.</p>\n<p>Premise 1: AI has changed, and will continue to change, things in society. I think we can all agree on that. </p>\n<p>Premise 2: One of these changes is that people can now send the results of AI prompts without any understanding of what is being discussed or debated. Fluent exchanges are flying around the Internet and the actual substance of the debate, or the underlying reason for the discussion, may be completely missed. </p>\n<p>Expertise is being swamped by content generation by software tools. </p>\n<p>I can debate how to heal a sick cat with a veterinarian and I have ZERO training in small animal medicine.  I can create a fluent argument and not understand anything I am saying by relying on AI tools.  But the veterinarian knows, because I won't even understand the points of the debate that are lost to subtlety and nuance by an expert.  However, I can overwhelm them with the sheer volume of my AI-generated response, causing them to put down their device and shake there head. I suppose that could be considered \"winning an argument\".</p>\n<p>I am wrong a lot.  I am proud of it.  I think, as a species, we are going to need to lean on trying to understand each other before we rely on LLMs to argue a friend or colleagues position.</p>\n<p>The cats deserve better. 🤣 🐈</p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "billy koplitz"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-24T20:29:01-04:00",
+            "date_modified": "2026-07-24T20:29:01-04:00"
+        },
+        {
+            "id": "https://billykoplitz.com/change.html",
+            "url": "https://billykoplitz.com/change.html",
+            "title": "change",
+            "summary": "“We would rather be ruined than changed We would rather die in our dread Than climb the cross of the moment And let our illusions&hellip;",
+            "content_html": "<blockquote>\n<p class=\"quoteText\">“We would rather be ruined than changed<br>We would rather die in our dread<br>Than climb the cross of the moment<br>And let our illusions die.”</p>\n</blockquote>\n<p>― <span class=\"authorOrTitle\">W H Auden, </span><span id=\"quote_book_link_9757482\">The Age of Anxiety: A Baroque Eclogue</span></p>\n<p>I am at a period in my life where I feel a lot of changes.  It has been a real challenge.  It can almost feel like a death to the ego to realize that you have been wrong.  It is why sometimes doing consciously and conspicuously <em>nothing</em>, just sitting still, can be the most enthusiastic and pure form of prayer.  To sit and notice what my illusions are and have been and to let them die.</p>",
+            "author": {
+                "name": "billy koplitz"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-16T07:53:13-04:00",
+            "date_modified": "2026-07-30T16:56:26-04:00"
+        },
+        {
+            "id": "https://billykoplitz.com/the-end-of-software-development.html",
+            "url": "https://billykoplitz.com/the-end-of-software-development.html",
+            "title": "the end of software development?",
+            "summary": "\"The reports of my death are greatly exaggerated,\" ~ Mark Twain (Maybe) Notwithstanding the clever witticism of dubious provenance that has been attributed to Mark&hellip;",
+            "content_html": "<blockquote>\n<p>\"The reports of my death are greatly exaggerated,\" </p>\n<p>~ Mark Twain (Maybe)</p>\n</blockquote>\n<p>Notwithstanding the clever witticism of dubious provenance that has been attributed to Mark Twain: I am going to report a possible death.  Software development.  A few months ago I was discussing with a friend that a killer app (that would also cause a lot of job losses) would be an application that took natural language prompts and then generated, not just code, but the entire website or application.  My pick at the time for this application was Figma, so you could just create the user interface and all the code on the backend would be created.  </p>",
+            "author": {
+                "name": "billy koplitz"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-22T11:10:01-04:00",
+            "date_modified": "2025-08-22T11:10:01-04:00"
+        },
+        {
+            "id": "https://billykoplitz.com/forgiveness.html",
+            "url": "https://billykoplitz.com/forgiveness.html",
+            "title": "forgiveness",
+            "summary": "I had this thought in the shower today: the speed that one can forgive is the yardstick for spiritual progress. Forgiveness for those who have&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">I had this thought in the shower today: the speed that one can forgive is the yardstick for spiritual progress.  </span></p>\n<p><span style=\"font-weight: 400;\">Forgiveness for those who have harmed you, (or even yourself, if you harmed yourself) is the cheat code to the game of life. </span></p>\n<p><span style=\"font-weight: 400;\">Why hold on to anger? Why allow it to age and harden until it becomes a smooth, polished and cherished resentment? </span></p>\n<p><span style=\"font-weight: 400;\">Forgive and then forgive and forgive again. As quickly as you can.  77 times if necessary. Especially the people who are closest to you.  It's relatively easy to forgive the person who cuts you off in traffic, you can think to yourself, \"maybe they have a friend in the hospital\" or something like that. A cognitive hack towards forgiveness. But often the people in your inner circle, when they hurt you, those wounds can be hard to forgive.</span></p>\n<p><span style=\"font-weight: 400;\">Of course, this isn't a new idea.  It certainly isn't my idea.  The importance of forgiveness has been written about literally thousands of years ago.  😉 🙏  The reason I'm writing about forgiveness like I invented it is because I </span><i><span style=\"font-weight: 400;\">feel</span></i><span style=\"font-weight: 400;\"> the power of forgiveness. When I let go of my self-righteous anger and forgive, I simply feel better and life goes more smoothly.  It's pretty amazing.</span></p>\n<p><span style=\"font-weight: 400;\">Why was I carrying around that bag of rocks, all my grievances, when I could just put them down? Oh, and I'm not perfect,  I struggle with this concept.  I guess I'm just trying to be the best version of myself that I can. </span></p>",
+            "author": {
+                "name": "billy koplitz"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-13T18:41:52-04:00",
+            "date_modified": "2025-08-13T18:41:52-04:00"
+        },
+        {
+            "id": "https://billykoplitz.com/market-correction.html",
+            "url": "https://billykoplitz.com/market-correction.html",
+            "title": "market correction",
+            "summary": " I've been paying attention to the stock market a little bit. Purely as an amateur. I have been talking to friends and famiy about how&hellip;",
+            "content_html": "<p> I've been paying attention to the stock market a little bit.  Purely as an amateur.  I have been talking to friends and famiy about how it seems like we are due for a correction and it may have started on Friday.</p>\n<p>There is a lot of uncertainty in the US econmy right now, which seems to be bleeding into the world economy.  Here are the headlines, in case you are under are under a rock or in a media fast. </p>\n<ul data-original-attrs=\"{&quot;style&quot;:&quot;&quot;}\">\n<li>Tariffs</li>\n<li>Unemployment</li>\n<li>AI</li>\n<li>Global Conflicts</li>\n</ul>\n<div>We have been hitting all time highs for so long, that a healthy correction is a good thing.  There needs to be some cooling off.</div>\n<div> </div>\n<div>I'm not srue what is going to happen, I don't have a crystal ball, but it seems like it is a good time to unwind some long positions and if you are brave, to take some short positions.  Just putting this out there on the internet.</div>\n<div> </div>\n<div>I could be wrong. We'll see. </div>\n<div> </div>",
+            "author": {
+                "name": "billy koplitz"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-02T13:47:18-04:00",
+            "date_modified": "2025-08-02T13:47:18-04:00"
+        },
+        {
+            "id": "https://billykoplitz.com/here-we-are.html",
+            "url": "https://billykoplitz.com/here-we-are.html",
+            "title": "and here we are",
+            "summary": "ireland, poetry and the world at large So just some updates about my life. If you are here there have been some changes since April&hellip;",
+            "content_html": "<h1>ireland, poetry and the world at large</h1>\n<p>So just some updates about my life.  If you are here there have been some changes since April 6, 2024.  </p>\n<p>Besides the obvious, which is that I haven't been writing on this blog.</p>\n<p>I'll try to remedy that now.</p>\n<p>I just finished my application for a Master of Arts in Creative Practice at the Atlantic Technological University in Galway, Ireland.  I should hear back in about a month or so.  The course starts in October.  I will be focusing on poetry.   If I am accepted, of course.  It's hard to say - I've let a few people read my poems and they liked them, but I have no idea how high the bar is for the program. (I got in! and decided to defer the program - maybe another time. :) ) </p>\n<p>Ireland has really captured my imagination in the past year.  I've been there five times, it feels like home in a way the DC metropolitan area has never felt.  </p>\n<p>Also, there is surf there!  It is cold, but sometimes it really pumps. </p>\n<p>Oh, here is a photo of me at the Cliffs of Moher.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://billykoplitz.com/media/posts/49/20241127_153102.JPG\" alt=\"william koplitz at the cliffs of moher\" width=\"1848\" height=\"4000\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://billykoplitz.com/media/posts/49/responsive/20241127_153102-xs.JPG 300w ,https://billykoplitz.com/media/posts/49/responsive/20241127_153102-sm.JPG 480w ,https://billykoplitz.com/media/posts/49/responsive/20241127_153102-md.JPG 768w ,https://billykoplitz.com/media/posts/49/responsive/20241127_153102-lg.JPG 1024w ,https://billykoplitz.com/media/posts/49/responsive/20241127_153102-xl.JPG 1360w ,https://billykoplitz.com/media/posts/49/responsive/20241127_153102-2xl.JPG 1600w\"><figcaption>William Koplitz at the Cliffs of Moher</figcaption></figure>\n<p>I also started learning to ride horse since I last wrote.  I went over my first jumps and I dream about horses now. </p>\n<p>There were some other trips since I last posted.  Last year at this time I was in Hawaii with my parents and the kids.  That was awesome.  </p>\n<p>Here are the other trips:</p>\n<p>Berlin in September 2024<br>Mexico January 2025<br>Prague in January 2025<br>Colombia in February 2025<br>Iceland in March 2025<br>Costa Rica in April 2025</p>\n<p>I have had to hit pause on some of these trips for now.  I'm hoping that I'll be back traveling the world soon.</p>\n<p>The world has certainly become a bit of a stranger place lately.  I do have faith that things will work out.  But we seem to be going through collective growing pains.  I know it can all feel a bit overwhelming, there are wars and rumors of war.  But we can all get through this together.  </p>\n<p>I love you. </p>\n<p>Hold on. </p>\n<p>~ Billy</p>",
+            "author": {
+                "name": "billy koplitz"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-31T20:30:07-04:00",
+            "date_modified": "2026-08-05T00:25:26-04:00"
+        },
+        {
+            "id": "https://billykoplitz.com/delete-my-account.html",
+            "url": "https://billykoplitz.com/delete-my-account.html",
+            "title": "&quot;delete my account&quot; ",
+            "summary": "It's time to unplug. I have mostly completed this task myself, and I would encourage anyone else to experiment with this. For all the life-hacking&hellip;",
+            "content_html": "<p>It's time to unplug.</p>\n<p>I have mostly completed this task myself, and I would encourage anyone else to experiment with this.  For all the life-hacking and human optimization tricks you see online, turning off social media, closing your computer, leaving your phone at home - can really improve the quality of your life and direction and intention of your two most precious assets in this human life - you time and your attention. </p>\n<p>For quite some time, I have found it distressing that the phone has become a shield to avoid human interaction.  It is a convenient thing to hide behind; a glowing brick to blot out the glare of the eyes of another person.  A pacifier for a mind in troubled times.  And i, too, have been a king of a skull-sized fiefdom.  So I cannot judge anyone.  But I have deleted almost everything and feel so much better.  The empirical evidence is very clear - turning this stuff off can be as affective for human flourishing as therapy. [citations forthcoming]</p>\n<p>I have been doing some research into social media and the effects on the mind - and by extension the spirit and the psyche.</p>\n<p>I'm not sure what social media is doing to us and what the end-game looks like.  But it doesn't look good.  Social media has fomented genocides, extremism, violence and political polarization to the point where the political and social left and right have bent towards each other and becoming indistinguishable in their rage and (as per the the <a href=\"https://en.wikipedia.org/wiki/Horseshoe_theory\" target=\"_blank\" rel=\"noopener noreferrer\">horseshoe theory.</a></p>\n<p>Social media is doing this.  This includes all of them, not just the usual suspects like TikTok and facebook.  This extends to other platforms as well, YouTube, and probably to some extent LinkedIn.  (At least LinkedIn is a bit narrower in the scope of their mission, focusing on pride and greed instead of fear and maximum engagement - Although I am happy to entertain counterpoints).</p>\n<p>But from my personal experience, <em>never </em>clicking on a youtube recommended video. I went to YouTube in an incognito browser and want to watch Django Reinhardt playing \"Brazil\" and was recommended a video that was a gateway to political extremism.  Is the greed at social media companies so great - their desperation to put you in a <a href=\"https://www.merriam-webster.com/dictionary/filter%20bubble\" target=\"_blank\" rel=\"noopener noreferrer\">filter bubble</a> so blatant, that you can't watch a jazz guitarist from the 1940s without being lured into extremism.</p>\n<p>The algorithms are tuned for maximum attention.  They do this in order to grow revenue by selling you advertisements.  They are not trying to educate, they are not concerned with human flourishing or happiness.  The goals is to trap  you into endlessly scrolling through increasingly titillating content while your time and your life passes you by. </p>\n<p>If you made it this far reading this post, I applaud you, perhaps your have reclaimed a modicum of your attention - or you never donated your personal cognitive cycles to any of the Fear Machines.  If so, thank you!  </p>\n<p> </p>",
+            "author": {
+                "name": "billy koplitz"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-07T12:52:00-04:00",
+            "date_modified": "2024-04-08T11:22:02-04:00"
+        },
+        {
+            "id": "https://billykoplitz.com/its-been-a-minute.html",
+            "url": "https://billykoplitz.com/its-been-a-minute.html",
+            "title": "it&#x27;s been a minute",
+            "summary": "it's been a minute since i have written, i hope you are doing well. i'll have more to write soon, i've got a lot going&hellip;",
+            "content_html": "<p>it's been a minute since i have written, i hope you are doing well.</p>\n<p>i'll have more to write soon, i've got a lot going on at the moment, all of it good - but i've not had a lot of time to write. </p>\n<p>stay tuned...</p>\n<p>:) </p>",
+            "author": {
+                "name": "billy koplitz"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-06T20:44:30-04:00",
+            "date_modified": "2024-04-06T20:44:30-04:00"
+        },
+        {
+            "id": "https://billykoplitz.com/you-are-enough.html",
+            "url": "https://billykoplitz.com/you-are-enough.html",
+            "title": "you are enough.",
+            "summary": "consider this an invitation to look at yourself a little bit differently. let's assume, just for a moment: that you are already enough. that you&hellip;",
+            "content_html": "<p>consider this an invitation to look at yourself a little bit differently. </p>\n<p>let's assume, just for a moment:<br>that you are already enough.  <br>that you don't need to amass more shiny objects. <br>that you have a spark of divinity in you that imbues you with the unconditional love of a supreme being. </p>\n<p>just for today, let's assume:<br>that the work that you have to do is finished.  <br>that your past is forgiven and the people who hurt you also had a spark of divinity in them, a spark that may have been dampened and ignored for so long that it may seem like their hearts are cold and empty. but what if they aren't?  </p>\n<p>what if you can:<br>with healthy boundaries, meet people exactly where they are and honor the divinity within them. <br>within all of us. </p>\n<p> </p>",
+            "author": {
+                "name": "billy koplitz"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-18T16:38:36-04:00",
+            "date_modified": "2023-10-10T11:25:49-04:00"
+        }
+    ]
+}
